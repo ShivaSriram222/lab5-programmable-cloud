@@ -20,5 +20,5 @@ You should write your code using the template files in each subdirectory. Each p
 
 I recommend you start by going through the tutorial mentioned in `part1/README.md`. Then, for each step, first do each of the needed steps using the Google console and only then start to write the code to do the same thing. This will help you identify which Google API's are needed.
 
-You will make extensive use of the [Google cloud API's](https://cloud.google.com/compute/docs/reference/rest/v1/). The API's are organized by service (e.g. `instace` has all the information about creating an instance). At the bottom of each API documentation is a code snippet showing how to use the API in Python. Many API's allow you to specify configuration or details using a Python `dict` which is more or less `json`.
+You will make extensive use of the [Google cloud API's](https://cloud.google.com/compute/docs/reference/rest/v1/). The API's are organized by service (e.g. `instance` has all the information about creating an instance). At the bottom of each API documentation is a code snippet showing how to use the API in Python. Many API's allow you to specify configuration or details using a Python `dict` which is more or less `json`.
 
